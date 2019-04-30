@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "899170168498",
+    "firebase_url": "https://beamstutorial.firebaseio.com",
+    "project_id": "beamstutorial",
+    "storage_bucket": "beamstutorial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899170168498:android:c89f7dfeb1e758a0",
+        "android_client_info": {
+          "package_name": "com.example.beamstutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899170168498-a5nq73cusm9utufha3qa9dvt0vk3auv7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6HGMRmL9VXpKos_e_4QGAeQOpuidIhu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899170168498-a5nq73cusm9utufha3qa9dvt0vk3auv7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
